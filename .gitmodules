@@ -1,0 +1,3 @@
+[submodule "FinalCPU"]
+	path = FinalCPU
+	url = https://github.com/cooper-union-ece-251-marano/final-project-ece-251-spring-2024-go-hay-fat-choy
